@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+us-apps.fliplet.com	TRUE	/	FALSE	1999999999	deviceUuid	e36b91e5-c266-4da9-94c4-a7be7f1b6259
+us-apps.fliplet.com	TRUE	/	FALSE	1999999999	app_10366_token	us--session--9be55149a3e43fd9d99ba63cc5b4ee7d-937-931-8828
+us-apps.fliplet.com	TRUE	/	FALSE	1999999999	SameSite	None
+

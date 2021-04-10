@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 10 Apr 2021 15:04:51 at https://us-apps.fliplet.com/raygo-raygo-mobile +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://us-apps.fliplet.com/raygo-raygo-mobile -O1 "C:\Users\kahir\Downloads\mijn browser" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:05:05	Warning: 	Note: due to https://cdn.api.fliplet.com remote robots.txt rules, links beginning with these path will be forbidden: / (see in the options to disable this)
+15:05:05	Error: 	"Not Found" (404) at link https://cdn.api.fliplet.com/assets/bootstrap-css/3.3.7/fonts/glyphicons-halflings-regular.eot (from https://cdn.api.fliplet.com/assets/bootstrap-css/3.3.7/bootstrap-css.bundle.css?_=1478db)
+15:05:05	Error: 	"Not Found" (404) at link https://cdn.api.fliplet.com/assets/bootstrap-css/3.3.7/fonts/glyphicons-halflings-regular.eot? (from https://cdn.api.fliplet.com/assets/bootstrap-css/3.3.7/bootstrap-css.bundle.css?_=1478db)
+15:05:05	Error: 	"Not Found" (404) at link https://cdn.api.fliplet.com/assets/bootstrap-css/3.3.7/fonts/glyphicons-halflings-regular.svg (from https://cdn.api.fliplet.com/assets/bootstrap-css/3.3.7/bootstrap-css.bundle.css?_=1478db)
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 seconds : 42 links scanned, 37 files written (1965083 bytes overall) [1434265 bytes received at 102447 bytes/sec], 753749 bytes transferred using HTTP compression in 20 files, ratio 25%, 6.0 requests per connection
+(3 errors, 1 warnings, 0 messages)
